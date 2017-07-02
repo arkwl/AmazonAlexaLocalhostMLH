@@ -1,14 +1,14 @@
 GetNewFactIntent a fact
-GetNewFactIntent a Major League Hacking fact
+GetNewFactIntent a A Rockwell fact
 GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a Major League Hacking fact
+GetNewFactIntent tell me a A Rockwell fact
 GetNewFactIntent give me a fact
-GetNewFactIntent give me a Major League Hacking fact
+GetNewFactIntent give me a A Rockwell fact
 GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a Major League Hacking trivia
+GetNewFactIntent tell me a A Rockwell trivia
 GetNewFactIntent give me trivia
-GetNewFactIntent give me a Major League Hacking trivia
+GetNewFactIntent give me a A Rockwell trivia
 GetNewFactIntent give me some information
-GetNewFactIntent give me some Major League Hacking information
+GetNewFactIntent give me some A Rockwell information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
